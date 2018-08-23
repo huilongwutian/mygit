@@ -1,0 +1,10 @@
+ 首页布局：viewpage+fragment
+ 异步加载图片：glide *
+ 事件总线：eventbus *
+ 检查内存泄漏工具：leakcanary
+ 绑定控件：butterknife *
+ 首页轮播控件：banner
+ 网络连接 rxjava2 + OKhttp3 +retrofit2  *
+ 权限管理：easypermissions
+ 分享和第三方登录：友盟
+ 异步操作 rxjava
